@@ -1,0 +1,5 @@
+I 63 3
+Timon 24 6
+Pumbaa 12 6
+Dog 3 3
+Kobe 1 1
